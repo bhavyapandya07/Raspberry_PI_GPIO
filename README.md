@@ -17,8 +17,6 @@ To use the code in this repository, you will need:
 - Resistors
 - A push button
 
-Even a Documentation file is given
-
 ### Installing
 
 To get started, clone this repository onto your Raspberry Pi:
@@ -39,4 +37,6 @@ There are three main scripts:
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to open a pull request or an issue.
+- Figjam file: https://www.figma.com/community/file/1232714947238214701
+- If you would like to contribute to this project, feel free to open a pull request or an issue.
+- Even a Documentation file is given
