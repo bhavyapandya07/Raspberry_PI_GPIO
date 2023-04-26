@@ -1,10 +1,8 @@
-
-
-# Raspberry PI GPIO
+# 🍓 Raspberry PI GPIO
 
 This repository contains code and documentation related to using the GPIO pins on a Raspberry Pi.
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -17,7 +15,7 @@ To use the code in this repository, you will need:
 - Resistors
 - A push button
 
-### Installing
+### 📥 Installing
 
 To get started, clone this repository onto your Raspberry Pi:
 
@@ -25,7 +23,7 @@ To get started, clone this repository onto your Raspberry Pi:
 git clone https://github.com/CyberWarrior743/Raspberry_PI_GPIO.git
 ```
 
-### Usage
+### 💻 Usage
 
 The code in this repository demonstrates how to use the GPIO pins on a Raspberry Pi to control LEDs and read input from a push button.
 
@@ -35,8 +33,8 @@ There are three main scripts:
 - `led_dimming.py`: This script uses pulse width modulation (PWM) to dim an LED.
 - `button_input.py`: This script reads input from a push button.
 
-## Contributing
+## 🤝 Contributing
 
-- Figjam file: https://www.figma.com/community/file/1232714947238214701
+- 🎨 Figjam file: https://www.figma.com/community/file/1232714947238214701
 - If you would like to contribute to this project, feel free to open a pull request or an issue.
-- Even a Documentation file is given
+- 📝 Even a Documentation file is given.
