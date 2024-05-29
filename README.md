@@ -35,6 +35,6 @@ There are three main scripts:
 
 ## 🤝 Contributing
 
-- 🎨 Figjam file: https://www.figma.com/community/file/1232714947238214701
+- 🎨 Figjam file: https://www.figma.com/file/IR4qyxCpklCuxRJ1BQBiFw/Raspberry-Pi?type=whiteboard&node-id=0-1&t=freO2yZ4t3CXOsis-0
 - If you would like to contribute to this project, feel free to open a pull request or an issue.
 - 📝 Even a Documentation file is given.
